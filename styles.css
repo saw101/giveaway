@@ -155,6 +155,7 @@ nav {
 body {
   font-family: var(--ff-secondary);
   background: var(--clr-grey-10);
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
